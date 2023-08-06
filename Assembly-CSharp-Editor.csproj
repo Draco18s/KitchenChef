@@ -58,8 +58,6 @@
   <ItemGroup>
     <Compile Include="Assets\draco18s\Editor\TupleDrawer.cs" />
     <Compile Include="Assets\draco18s\Editor\FindMissingScriptsRecursivelyAndRemove.cs" />
-    <Compile Include="Assets\draco18s\Editor\DictionaryEditor.cs" />
-    <Compile Include="Assets\draco18s\Editor\EditorHelper.cs" />
     <Compile Include="Assets\Tool-UnityAssetCleaner-master\Assets\Cleaner\Editor\AssetReferenceCollection.cs" />
     <Compile Include="Assets\Tool-UnityAssetCleaner-master\Assets\Cleaner\Editor\CollectionData.cs" />
     <Compile Include="Assets\Tool-UnityAssetCleaner-master\Assets\Cleaner\Editor\AssetCollector.cs" />

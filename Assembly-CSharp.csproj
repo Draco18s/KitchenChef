@@ -63,9 +63,7 @@
     <Compile Include="Assets\draco18s\util\ResourcesManager.cs" />
     <Compile Include="Assets\draco18s\kitchen\data\KitchenLayout.cs" />
     <Compile Include="Assets\draco18s\kitchen\objects\DeliveryWindow.cs" />
-    <Compile Include="Assets\draco18s\util\SerializableDictionary.cs" />
     <Compile Include="Assets\draco18s\util\TypeExtensions.cs" />
-    <Compile Include="Assets\draco18s\util\TriValue.cs" />
     <Compile Include="Assets\draco18s\kitchen\objects\CarryableIngredient.cs" />
     <Compile Include="Assets\draco18s\kitchen\KitchenSetup.cs" />
     <Compile Include="Assets\draco18s\util\SerializableTuple.cs" />
