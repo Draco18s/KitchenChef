@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>d1194152f5c501f49b6a01da4cc0e7f5</guid>
+    <fileName>Assets/InteractionTriggerHandler.cs</fileName>
+    <timeStamp>2023-08-05T00:19:30.2715763-05:00</timeStamp>
+    <typeFullName>
+      <string>InteractionTriggerHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>707bfc54214b9fb4ca86acbbbf5d3bbe</guid>
+    <fileName>Assets/draco18s/Editor/DictionaryEditor.cs</fileName>
+    <timeStamp>2023-08-04T20:46:19.7165024-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9e7e1e4fda444194eb9e434a2fb675b9</guid>
+    <fileName>Assets/draco18s/Editor/EditorHelper.cs</fileName>
+    <timeStamp>2023-08-04T20:42:42.9486841-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef7cd193e303ba743acb36e57a6b3ad6</guid>
+    <fileName>Assets/draco18s/Editor/FindMissingScriptsRecursivelyAndRemove.cs</fileName>
+    <timeStamp>2023-07-26T18:19:06.6063987-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7458506143a5873439c7e8f74f433af7</guid>
+    <fileName>Assets/draco18s/Editor/TupleDrawer.cs</fileName>
+    <timeStamp>2023-08-04T21:05:19.2526463-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>478f5ef0b5dde854b80cd42367bd99ef</guid>
+    <fileName>Assets/draco18s/kitchen/KitchenSetup.cs</fileName>
+    <timeStamp>2023-08-05T19:17:22.7216467-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.KitchenSetup</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>91e8fa3464da24240a5ca716ebf3558a</guid>
+    <fileName>Assets/draco18s/kitchen/Player.cs</fileName>
+    <timeStamp>2023-08-05T20:45:35.8331393-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.Player</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28e04d5040078cc468a8cf798c033d6d</guid>
+    <fileName>Assets/draco18s/ui/PercentageBar.cs</fileName>
+    <timeStamp>2023-07-16T00:45:36.6622113-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.ui.PercentageBar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bd1b078fbdc844a40adc60eec57be4c1</guid>
+    <fileName>Assets/draco18s/util/ResourcesManager.cs</fileName>
+    <timeStamp>2023-07-28T20:18:33.5536094-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.util.ResourcesManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>77a24b7b33966904da872910274f2aca</guid>
+    <fileName>Assets/draco18s/util/SerializableDictionary.cs</fileName>
+    <timeStamp>2023-08-04T20:03:31.924338-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.util.SerializableDictionary`2</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3c74dcf5799638a4096dfe46dd4a1461</guid>
+    <fileName>Assets/draco18s/util/SerializableTuple.cs</fileName>
+    <timeStamp>2023-08-04T21:05:58.5802631-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.util.SerializableTuple`2</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d45e922ec17347348b37ab6e1ef9e4a2</guid>
+    <fileName>Assets/draco18s/util/TriValue.cs</fileName>
+    <timeStamp>2023-07-28T20:59:37.9624546-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.util.TriValue</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5ac63658ad2ec58419e326aac0178734</guid>
+    <fileName>Assets/draco18s/util/TypeExtensions.cs</fileName>
+    <timeStamp>2023-07-17T21:23:58.3840443-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.util.TypeExtensions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e087ecce43ebbff45a1b360637807d93</guid>
+    <fileName>Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs</fileName>
+    <timeStamp>2023-08-05T20:09:58.1811416-05:00</timeStamp>
+    <typeFullName>
+      <string>StarterAssets.StarterAssetsInputs</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>94b0dab25606530469c975cc77f3b97e</guid>
+    <fileName>Assets/draco18s/kitchen/data/CookingIngredient.cs</fileName>
+    <timeStamp>2023-08-05T17:35:31.7108785-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.CookingIngredient</string>
+      <string>Assets.draco18s.kitchen.CookingIngredient+ProcessType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>57a8c01b904f25b44bdadfe2d5c3097f</guid>
+    <fileName>Assets/draco18s/kitchen/data/KitchenItem.cs</fileName>
+    <timeStamp>2023-08-04T20:43:49.468585-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.KitchenItem</string>
+      <string>Assets.draco18s.kitchen.KitchenItem+KitchenItemType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>84816a4e287c78b459843682fb73591c</guid>
+    <fileName>Assets/draco18s/kitchen/data/KitchenLayout.cs</fileName>
+    <timeStamp>2023-08-04T21:00:25.6044456-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.KitchenLayout</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>99dca560191d82845b00f19495299876</guid>
+    <fileName>Assets/draco18s/kitchen/interfaces/ICarryable.cs</fileName>
+    <timeStamp>2023-08-04T23:11:49.1338422-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.ICarryable</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>511ed12f8a6921948aa406b78a7e9a2a</guid>
+    <fileName>Assets/draco18s/kitchen/interfaces/IInteractable.cs</fileName>
+    <timeStamp>2023-08-05T15:45:18.3673202-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.IInteractable</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>90c775d753f7ead44befefb07a58fb46</guid>
+    <fileName>Assets/draco18s/kitchen/objects/CarryableIngredient.cs</fileName>
+    <timeStamp>2023-08-04T23:28:52.718526-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.CarryableIngredient</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b92e9287b93be8f429e6fc08c0a88488</guid>
+    <fileName>Assets/draco18s/kitchen/objects/DeliveryWindow.cs</fileName>
+    <timeStamp>2023-08-05T19:54:04.7121524-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.DeliveryWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c2fcdfee8277d1e48863c46f49819780</guid>
+    <fileName>Assets/draco18s/kitchen/objects/KitchenStove.cs</fileName>
+    <timeStamp>2023-08-05T19:18:31.5361103-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.KitchenStove</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd181e707c3be6f44a9545340b13c07f</guid>
+    <fileName>Assets/draco18s/kitchen/objects/KitchenSupply.cs</fileName>
+    <timeStamp>2023-08-05T20:39:21.8724156-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.KitchenSupply</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c18e4a625af143c4abc21f9f07279d5d</guid>
+    <fileName>Assets/draco18s/kitchen/objects/PrepTable.cs</fileName>
+    <timeStamp>2023-08-05T19:55:37.4090888-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.PrepTable</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>522c718016449e44d8ce1cec4a86cfd7</guid>
+    <fileName>Assets/draco18s/kitchen/objects/RecipeResult.cs</fileName>
+    <timeStamp>2023-08-05T17:41:08.912985-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.RecipeResult</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>daac008e3be69e54db4adddc6fd9a726</guid>
+    <fileName>Assets/draco18s/kitchen/objects/TrashCan.cs</fileName>
+    <timeStamp>2023-08-05T15:53:03.797794-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.objects.TrashCan</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>351a3c1d17634ee42b1714e8f565d1a8</guid>
+    <fileName>Assets/draco18s/kitchen/ui/DeliveryTimer.cs</fileName>
+    <timeStamp>2023-08-05T17:48:03.8392303-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.DeliveryTimer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3386f61ee7e9dec4cbe9b2fbb1e5ae17</guid>
+    <fileName>Assets/draco18s/kitchen/ui/ScoreKeeper.cs</fileName>
+    <timeStamp>2023-08-05T20:53:34.1615654-05:00</timeStamp>
+    <typeFullName>
+      <string>Assets.draco18s.kitchen.ui.ScoreKeeper</string>
+      <string>Assets.draco18s.kitchen.ui.ScoreKeeper+GameState</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>909d917d73a63f940ac158d02e936645</guid>
+    <fileName>Assets/StarterAssets/ThirdPersonController/Scripts/BasicRigidBodyPush.cs</fileName>
+    <timeStamp>2023-02-09T09:35:54-06:00</timeStamp>
+    <typeFullName>
+      <string>BasicRigidBodyPush</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>26e54e5a728a9234ab24fcf1460ed8a2</guid>
+    <fileName>Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs</fileName>
+    <timeStamp>2023-08-05T20:56:53.9052738-05:00</timeStamp>
+    <typeFullName>
+      <string>StarterAssets.ThirdPersonController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcf7219bab7fe46a1ad266029b2fee19</guid>
+    <fileName>Assets/StarterAssets/TutorialInfo/Scripts/Readme.cs</fileName>
+    <timeStamp>2023-02-09T09:38:00-06:00</timeStamp>
+    <typeFullName>
+      <string>Readme</string>
+      <string>Readme+Section</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a300d010f57451488aa99000126fbd5</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs</fileName>
+    <timeStamp>2023-02-09T09:34:57-06:00</timeStamp>
+    <typeFullName>
+      <string>StarterAssets.UICanvasControllerInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>901182334643ba1438a25accc6bd0c79</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs</fileName>
+    <timeStamp>2023-02-09T09:35:54-06:00</timeStamp>
+    <typeFullName>
+      <string>MobileDisableAutoSwitchControls</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>448cd6d8e2f2cb04096e777d99974bc4</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs</fileName>
+    <timeStamp>2023-02-09T09:34:43-06:00</timeStamp>
+    <typeFullName>
+      <string>UIVirtualButton</string>
+      <string>UIVirtualButton+BoolEvent</string>
+      <string>UIVirtualButton+Event</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f2cb8c4d669392748bb924209de33b85</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs</fileName>
+    <timeStamp>2023-02-09T09:37:55-06:00</timeStamp>
+    <typeFullName>
+      <string>UIVirtualJoystick</string>
+      <string>UIVirtualJoystick+Event</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65870f34fef70aa44b0f562cfc810220</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs</fileName>
+    <timeStamp>2023-02-09T09:35:13-06:00</timeStamp>
+    <typeFullName>
+      <string>UIVirtualTouchZone</string>
+      <string>UIVirtualTouchZone+Event</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>476cc7d7cd9874016adc216baab94a0a</guid>
+    <fileName>Assets/StarterAssets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs</fileName>
+    <timeStamp>2023-02-09T09:34:48-06:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Tool-UnityAssetCleaner-master/Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2023-08-05T21:04:47.5675362-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Tool-UnityAssetCleaner-master/Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2023-08-05T21:04:47.5994512-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Tool-UnityAssetCleaner-master/Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2023-08-05T21:11:17.5625416-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Tool-UnityAssetCleaner-master/Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2023-08-05T21:04:47.6722565-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Tool-UnityAssetCleaner-master/Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2023-08-05T21:04:47.7021767-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Tool-UnityAssetCleaner-master/Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2023-08-05T21:04:47.7380814-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
